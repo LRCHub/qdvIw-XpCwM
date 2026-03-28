@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Feel Good",
+  "base_artist": "BUZZ-ER.",
+  "createdAt": "2026-03-28T07:52:00.354728Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel Good Hit of the Fall",
+      "artist": "!!!",
+      "has_synced": true,
+      "path": "select/01_Feel_Good_Hit_of_the_Fall_!!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feel Good Inc",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/02_Feel_Good_Inc_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Make Me Feel Good",
+      "artist": "Zapp",
+      "has_synced": true,
+      "path": "select/03_Make_Me_Feel_Good_Zapp.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Make Me Feel Good",
+      "artist": "The Zombies",
+      "has_synced": true,
+      "path": "select/04_You_Make_Me_Feel_Good_The_Zombies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Do You Feel Good",
+      "artist": "The Servant",
+      "has_synced": true,
+      "path": "select/05_Hey_Do_You_Feel_Good_The_Servant.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Do You Feel Good",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/06_Do_You_Feel_Good_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feel Good Hit Of The Summer",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/07_Feel_Good_Hit_Of_The_Summer_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feel Good",
+      "artist": "Holly Johnson",
+      "has_synced": false,
+      "path": "select/08_Feel_Good_Holly_Johnson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Feel Good Hit",
+      "artist": "Quiet Local",
+      "has_synced": false,
+      "path": "select/09_Feel_Good_Hit_Quiet_Local.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everybody's Free (To Feel Good) (Mambo Pacha Mix)",
+      "artist": "Rozalla",
+      "has_synced": false,
+      "path": "select/10_Everybody's_Free_(To_Feel_Good)_(Mambo_Pacha_Mix)_Rozalla.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "But I Feel Good",
+      "artist": "Groove Armada",
+      "has_synced": true,
+      "path": "select/11_But_I_Feel_Good_Groove_Armada.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "But I Feel Good (Audio Bullys Dr. Feelgood mix)",
+      "artist": "Groove Armada",
+      "has_synced": false,
+      "path": "select/12_But_I_Feel_Good_(Audio_Bullys_Dr._Feelgood_mix)_Groove_Armada.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Feel Good",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/13_I_Feel_Good_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Feel Good",
+      "artist": "Modestep",
+      "has_synced": true,
+      "path": "select/14_Feel_Good_Modestep.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feel Good",
+      "artist": "BUZZ-ER.",
+      "has_synced": false,
+      "path": "select/pl_01_Feel_Good_BUZZ-ER..txt"
+    }
+  ]
+}
